@@ -1,4 +1,4 @@
-![The official logo of ScrayosNET](images/logo/scrayosnet.png "ScrayosNET")
+![The official logo of ScrayosNET](profile/images/logo/scrayosnet.png "ScrayosNET")
 
 [![A visual badge for our Twitter handle](https://shields.io/badge/Twitter-@ScrayosNET-black?logo=twitter&style=flat&color=#1DA1F2 "Twitter")][scrayosnet-twitter]
 [![A visual badge for our Instagram handle](https://shields.io/badge/Instagram-@scrayosnet-black?logo=instagram&style=flat&color=E4405F "Instagram")][scrayosnet-instagram]
@@ -21,7 +21,7 @@ see what we have in store for the future. We like exploring interesting ideas an
 
 ---
 
-![The official logo of JustChunks](images/logo/justchunks.png "JustChunks")
+![The official logo of JustChunks](profile/images/logo/justchunks.png "JustChunks")
 
 ## [JustChunks][justchunks-website]
 
@@ -41,7 +41,7 @@ and where they can let their creativity run free!
 
 ---
 
-![The official logo of MC Jobs](images/logo/mcjobs.png "MC Jobs")
+![The official logo of MC Jobs](profile/images/logo/mcjobs.png "MC Jobs")
 
 ## [MC Jobs][mcjobs-website]
 
