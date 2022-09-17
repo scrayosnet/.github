@@ -1,10 +1,12 @@
-![The official logo of ScrayosNET](profile/images/logo/scrayosnet.png "ScrayosNET")
+<p align="center" dir="auto">
+<img alt="The official logo of ScrayosNET" src="profile/images/logo/scrayosnet.png" title="ScrayosNET"/>
 
-[![A visual badge for our Twitter handle](https://shields.io/badge/Twitter-@ScrayosNET-black?logo=twitter&style=flat&color=#1DA1F2 "Twitter")][scrayosnet-twitter]
-[![A visual badge for our Instagram handle](https://shields.io/badge/Instagram-@scrayosnet-black?logo=instagram&style=flat&color=E4405F "Instagram")][scrayosnet-instagram]
-[![A visual badge for our StackShare handle](https://shields.io/badge/StackShare-@scrayosnet-black?logo=stackshare&style=flat&color=0690FA "StackShare")][scrayosnet-stackshare]
-[![A visual badge for our Discord handle](https://shields.io/discord/140450742329671680?label=Discord&logo=discord&style=flat&color=5865F2 "Discord")][justchunks-discord]
-[![A visual badge for our GitLab handle](https://shields.io/badge/GitLab-@scrayosnet-black?logo=gitlab&style=flat&color=FC6D26 "GitLab")][scrayosnet-gitlab]
+<a href="https://twitter.com/ScrayosNET"><img alt="A visual badge for our Twitter handle" src="https://shields.io/badge/Twitter-@ScrayosNET-black?logo=twitter&amp;style=flat&amp;color=#1DA1F2" title="Twitter"/></a>
+<a href="https://www.instagram.com/scrayosnet/"><img alt="A visual badge for our Instagram handle" src="https://shields.io/badge/Instagram-@scrayosnet-black?logo=instagram&amp;style=flat&amp;color=E4405F" title="Instagram"/></a>
+<a href="https://www.instagram.com/scrayosnet/"><img alt="A visual badge for our StackShare handle" src="https://shields.io/badge/StackShare-@scrayosnet-black?logo=stackshare&amp;style=flat&amp;color=0690FA" title="StackShare"/></a>
+<a href="https://discord.gg/wf94dAA"><img alt="A visual badge for our Discord handle" src="https://shields.io/discord/140450742329671680?label=Discord&amp;logo=discord&amp;style=flat&amp;color=5865F2" title="Discord"/></a>
+<a href="https://gitlab.com/scrayosnet"><img alt="A visual badge for our GitLab handle" src="https://shields.io/badge/GitLab-@scrayosnet-black?logo=gitlab&amp;style=flat&amp;color=FC6D26" title="GitLab"/></a>
+</p>
 
 Welcome to the development home of ScrayosNET – a small german company, primarily known for the development of the
 Minecraft network [JustChunks][justchunks-website]. We're eager to establish ourselves in the Gaming market and – once
@@ -21,7 +23,9 @@ see what we have in store for the future. We like exploring interesting ideas an
 
 ---
 
-![The official logo of JustChunks](profile/images/logo/justchunks.png "JustChunks")
+<p align="center" dir="auto">
+<img alt="The official logo of JustChunks" src="profile/images/logo/justchunks.png" title="JustChunks"/>
+</p>
 
 ## [JustChunks][justchunks-website]
 
@@ -41,7 +45,9 @@ and where they can let their creativity run free!
 
 ---
 
-![The official logo of MC Jobs](profile/images/logo/mcjobs.png "MC Jobs")
+<p align="center" dir="auto">
+<img alt="The official logo of MC Jobs" src="profile/images/logo/mcjobs.png" title="MC Jobs"/>
+</p>
 
 ## [MC Jobs][mcjobs-website]
 
@@ -59,15 +65,9 @@ find a matching pair. We want to establish a streamlined process that supports t
 possible in finding the optimal counterpart!
 
 
-[scrayosnet-twitter]: https://twitter.com/ScrayosNET
 
-[scrayosnet-instagram]: https://www.instagram.com/scrayosnet/
-
-[scrayosnet-stackshare]: https://www.instagram.com/scrayosnet/
 
 [justchunks-discord]: https://discord.gg/wf94dAA
-
-[scrayosnet-gitlab]: https://gitlab.com/scrayosnet
 
 [justchunks-website]: https://justchunks.net
 
