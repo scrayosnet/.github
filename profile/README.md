@@ -1,5 +1,5 @@
 <p align="center" dir="auto">
-<img alt="The official logo of ScrayosNET" src="profile/images/logo/scrayosnet.png" title="ScrayosNET"/>
+<img alt="The official logo of ScrayosNET" src="/profile/images/logo/scrayosnet.png" title="ScrayosNET"/>
 
 <a href="https://twitter.com/ScrayosNET"><img alt="A visual badge for our Twitter handle" src="https://shields.io/badge/Twitter-@ScrayosNET-black?logo=twitter&amp;style=flat&amp;color=#1DA1F2" title="Twitter"/></a>
 <a href="https://www.instagram.com/scrayosnet/"><img alt="A visual badge for our Instagram handle" src="https://shields.io/badge/Instagram-@scrayosnet-black?logo=instagram&amp;style=flat&amp;color=E4405F" title="Instagram"/></a>
@@ -24,7 +24,7 @@ see what we have in store for the future. We like exploring interesting ideas an
 ---
 
 <p align="center" dir="auto">
-<img alt="The official logo of JustChunks" src="profile/images/logo/justchunks.png" title="JustChunks"/>
+<img alt="The official logo of JustChunks" src="/profile/images/logo/justchunks.png" title="JustChunks"/>
 </p>
 
 ## [JustChunks][justchunks-website]
@@ -46,7 +46,7 @@ and where they can let their creativity run free!
 ---
 
 <p align="center" dir="auto">
-<img alt="The official logo of MC Jobs" src="profile/images/logo/mcjobs.png" title="MC Jobs"/>
+<img alt="The official logo of MC Jobs" src="/profile/images/logo/mcjobs.png" title="MC Jobs"/>
 </p>
 
 ## [MC Jobs][mcjobs-website]
